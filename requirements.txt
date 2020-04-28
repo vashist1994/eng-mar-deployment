@@ -3,7 +3,7 @@ Flask-Cors==3.0.8
 Flask-RESTful==0.3.8
 Jinja2==2.11.2
 Keras
-python==3.6.9
+python
 tensorflow==1.14.0
 numpy==1.18.3
 pickle==4.0
